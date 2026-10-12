@@ -1,0 +1,14 @@
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
+.claude/
+.codex/
+.pi/
+.claude-octopus/
+.rtk/
+.serena/
+.tokensave/
+.DS_Store
+desktop.ini
+.env
